@@ -442,6 +442,9 @@ section{
 	.navlist.open{
 		top:100%;
 	}
+	  .about {
+    grid-template-columns: 1fr;
+  }
 	
 	.about-img {
 		display: none;
