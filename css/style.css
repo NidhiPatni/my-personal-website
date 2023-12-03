@@ -446,4 +446,8 @@ section{
 	.about-img {
 		display: none;
 	}
+	
+	  .about-text {
+    order: -1;
+  }
 }
