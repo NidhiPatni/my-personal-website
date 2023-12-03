@@ -446,7 +446,7 @@ section{
     grid-template-columns: 1fr;
   }
 	
-	.about-img {
+	.about-img img {
 		display: none;
 	}
 	
