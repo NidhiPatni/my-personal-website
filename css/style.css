@@ -416,7 +416,7 @@ section{
 }
 @media (max-width: 480px){
 	#menu-icon{
-		display: block;
+		display: none;
 	}
 	.navlist{
 		position: absolute;
@@ -441,5 +441,9 @@ section{
 	}
 	.navlist.open{
 		top:100%;
+	}
+	
+	.about-img {
+		display: none;
 	}
 }
